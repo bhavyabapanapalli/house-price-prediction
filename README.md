@@ -146,7 +146,7 @@ Streamlit will display a local URL where you can use the application.
 
 ## Author
 
-**Govardhan Attada**
+**Bhavya Bapanapalli**
 
 GitHub: [bhavyabapanapalli](https://github.com/bhavyabapanapalli)
 
